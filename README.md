@@ -4,3 +4,5 @@
 ## add title
 ## v0.0.0
 ## develop
+
+Issuesの練習用ダミーテキスト
